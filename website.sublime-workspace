@@ -163,7 +163,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 5891,
+				"buffer_size": 5892,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -222,8 +222,7 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/yisro/Documents/website.html",
-		"/C/Users/yisro/Documents/website.html/css"
+		"/C/Users/yisro/Documents/GitHub/website"
 	],
 	"file_history":
 	[
@@ -280,15 +279,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5891,
+						"buffer_size": 5892,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1479,
-								1479
+								5375,
+								5375
 							]
 						],
 						"settings":
@@ -299,7 +298,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 4468.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
