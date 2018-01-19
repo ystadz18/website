@@ -1,0 +1,196 @@
+#quote1{
+     padding: 5px;
+	width: 25%;
+	max-width: 30%;
+	border: 2px solid black;
+	border-radius: 15px;
+	float: left;
+	margin-top: 1%;
+	margin-left: 10px;
+}
+
+.slideshow-container {
+  position: relative;
+  margin: 10px;
+}
+
+.quick{
+    width: 60%;
+    border: 3px solid black;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+.about{
+	 width: 60%;
+    border: 3px solid black;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+.motivation{
+   width: 60%;
+    border: 3px solid black;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+#quote2{
+     padding: 5px;
+	width: 25%;
+	max-width: 30%;
+	border: 2px solid black;
+	border-radius: 15px;
+	float: right;
+	margin-top: 1%;
+	margin-left: 0;
+	margin-right: 10px;
+}
+
+#quote3{
+     padding: 5px;
+	width: 25%;
+	max-width: 30%;
+	border: 2px solid black;
+	border-radius: 15px;
+	margin-top: 6%;
+	margin-left: 1%;
+}
+
+#quote4{
+     padding: 5px;
+	width: 25%;
+	max-width: 30%;
+	border: 2px solid black;
+	border-radius: 15px;
+	margin-top: -9%;
+	margin-right: 10px;
+	margin-left: 73%;
+}
+
+.navigation{
+	 list-style-type: none;
+    padding: 0;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    width: 100%;
+    height: 15%;
+}
+
+
+.navigation a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+
+.navigaton a: hover{
+    background-color: #ddd;
+    color: black;
+}
+
+
+.navigation .active{
+    background-color: #4CAF50;
+    color: white;
+}
+
+.ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.li {
+    float: left;
+    display: inline;
+     style="float-right";
+     border-right: 1px solid #bbb;
+}
+
+.li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+.li a:hover {
+    background-color: #111;
+}
+
+.body{
+	 background: linear-gradient(to bottom, #808080 99%, #66ccff 100%);
+}
+
+.car{
+	height: 450px;
+	margin-top: 8%;
+}
+
+.struggle{
+	height: 450px;
+	margin-top: 8%;
+}
+
+.moon{
+  height: 450px;
+  margin-top: 8%;
+}
+
+.june{
+    height: 450px;
+    margin-top: 8%;
+}
+
+.mySlides {
+    display: none;
+}
+
+
+.numbertext {
+  color: black;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: center;
+}
+
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: .5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 2px solid black;
+    text-align: left;
+    padding: 6px;
+}
